@@ -55,8 +55,10 @@ Send us a PR to list it here! Here's an example:
 - **Shimi Bandiel, Comonads Notation for Dotty**
 
   I've prartially prototyped a co-monads comprehension (cofor) in Dotty. 
-  Come and help discuss, design and implement a convenient and helpful syntax for co-monads. 
-  (Based on the work of Dominc Orchard https://github.com/dorchard/codo-notation in Haskell).
+  
+  Come and help discuss, design and implement a convenient and helpful syntax for co-monads.
+  
+  (Based on the work of Dominic Orchard https://github.com/dorchard/codo-notation in Haskell).
   
 **ADD YOUR PROJECTS HERE**
 
